@@ -17,5 +17,11 @@
         "code": "RnxpWm2jOFvagsa35DFfVmZ3",
         "plan": "lifetime",
         "expiration_date": null
+    },
+    "437606603307614209": {
+        "username": "giveta",
+        "code": "t0kIVw1nYxIiIdRzgFyQMgTB",
+        "plan": "1_week",
+        "expiration_date": "2025-03-25T06:35:11.839576"
     }
 }

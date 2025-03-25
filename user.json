@@ -33,5 +33,11 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000806D1"
+    },
+    "686775885503660073": {
+        "username": "pairyy",
+        "code": "RFJNE5VedErQIV4bwXxPyaeS",
+        "plan": "1_week",
+        "expiration_date": "2025-04-01T06:44:27.813486"
     }
 }

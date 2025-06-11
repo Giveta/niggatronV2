@@ -92,4 +92,13 @@
         "expiration_date": null,
         "HWID": "178BFBFF00A50F00",
         "Access": "HeianRR"
+    },
+    "186763797665546240": {
+        "username": "chaos07",
+        "code": "chaos",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "BFEBFBFF000B06F2",
+        "Access": "HeianRR"
+    }
 }

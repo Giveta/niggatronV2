@@ -68,5 +68,13 @@
         "expiration_date": null,
         "HWID": "BFEBFBFF000906ED",
         "Access": "HeianRR"
+    },
+    "302370518244261889": {
+        "username": "coco.2real",
+        "code": "azriel24",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "BFEBFBFF000A0653",
+        "Access": "HeianRR"
     }
 }

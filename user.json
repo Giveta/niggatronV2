@@ -76,5 +76,12 @@
         "expiration_date": null,
         "HWID": "BFEBFBFF000A0653",
         "Access": "HeianRR"
-    }
+    },
+    "319724850308710402": {
+        "username": "moegamerboy",
+        "code": "moe",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "BFEBFBFF000B0671",
+        "Access": "HeianRR"
 }

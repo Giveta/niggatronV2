@@ -116,5 +116,13 @@
         "expiration_date": null,
         "HWID": "BFEBFBFF000906ED",
         "Access": "HeianRR"
+    },
+    "688783880689680489": {
+        "username": "isitvtec",
+        "code": "critical",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "178BFBFF00870F10",
+        "Access": "HeianRR"
     }
 }

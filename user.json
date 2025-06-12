@@ -124,5 +124,13 @@
         "expiration_date": null,
         "HWID": "178BFBFF00870F10",
         "Access": "HeianRR"
+    },
+    "714243958376759387": {
+        "username": "drownedshop",
+        "code": "drowned",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "107C61B7478C",
+        "Access": "HeianRR"
     }
 }

@@ -148,5 +148,13 @@
         "expiration_date": null,
         "HWID": "BFEBFBFF000B0671",
         "Access": "HeianRR"
+    },
+    "280838311898251276": {
+        "username": "pedrolenda",
+        "code": "pedro",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "178BFBFF00870F10",
+        "Access": "HeianRR"
     }
 }

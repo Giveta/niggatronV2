@@ -140,5 +140,13 @@
         "expiration_date": null,
         "HWID": "178BFBFF00A60F12",
         "Access": "HeianRR"
+    },
+    "818314907078361161": {
+        "username": "fw.valk",
+        "code": "valk",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "BFEBFBFF000B0671",
+        "Access": "HeianRR"
     }
 }

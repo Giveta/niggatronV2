@@ -156,5 +156,13 @@
         "expiration_date": null,
         "HWID": "178BFBFF00870F10",
         "Access": "HeianRR"
+    },
+    "554463998595301388": {
+        "username": "jinx.xxxxx",
+        "code": "jinx",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "BFEBFBFF000806D1",
+        "Access": "HeianRR"
     }
 }

@@ -5,7 +5,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "178BFBFF00A20F10",
-        "Access": "HeianRR", "InvLoc", "Gacha"
+        "Access": ["HeianRR", "InvLoc", "Gacha"]
     },
     "1026063404068257875": {
         "username": "tomclap",
@@ -13,7 +13,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "178BFBFF00870F10"
-        "Access": "InvLoc", "Gacha", "HeianRR",
+        "Access": ["InvLoc", "Gacha", "HeianRR"]
     },
     "661151131459911700": {
         "username": ".ronnyboy.",
@@ -27,7 +27,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "178BFBFF00A20F12",
-        "Access": "Gacha"
+        "Access": ["Gacha"]
     },
     "543543538638389249": {
         "username": "christo_2006",
@@ -35,7 +35,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000B06A2",
-        "Access": "Gacha"
+        "Access": ["Gacha"]
     },
     "891746797322666104": {
        "username": "guatamalamaster",
@@ -43,7 +43,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000A0671",
-        "Access": "HeianRR", "Gacha", "InvLoc"
+        "Access": ["HeianRR", "Gacha", "InvLoc"]
     },
     "349313007333015554": {
         "username": "irslean",

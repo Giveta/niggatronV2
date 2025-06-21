@@ -166,5 +166,13 @@
         "expiration_date": null,
         "HWID": "BFEBFBFF000806D1",
         "Access": "HeianRR"
+    },
+    "651043114491838464": {
+        "username": "angeroni",
+        "code": "angur",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "BFEBFBFF000A0652",
+        "Access": "HeianRR"
     }
 }

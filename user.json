@@ -182,4 +182,13 @@
         "expiration_date": null,
         "HWID": "BFEBFBFF000306A9",
         "Access": ["Gacha"]
+    },
+    "521342093969588249": {
+        "username": "arkstel._",
+        "code": "craig",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "178BFBFF00A20F10",
+        "Access": ["Gacha"]
+    }
 }

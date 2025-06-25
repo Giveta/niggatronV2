@@ -174,5 +174,12 @@
         "expiration_date": null,
         "HWID": "BFEBFBFF000A0652",
         "Access": ["Gacha"]
-    }
+    },
+    "334413789187538944": {
+        "username": "rollsafe.",
+        "code": "roll",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "BFEBFBFF000306A9",
+        "Access": ["Gacha"]
 }

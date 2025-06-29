@@ -190,5 +190,13 @@
         "expiration_date": null,
         "HWID": "178BFBFF00A20F10",
         "Access": ["Gacha"]
+    },
+    "644808223622168586": {
+        "username": "despecialise",
+        "code": "sin",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "BFEBFBFF000906E9",
+        "Access": ["Gacha"]
     }
 }

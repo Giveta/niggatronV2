@@ -250,5 +250,13 @@
         "expiration_date": null,
         "HWID": "niggamon",
         "Access": []
+    },
+    "437606603307614209": {
+        "username": "giveta",
+        "code": "sigma",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "437606603307614209",
+        "Access": []
     }
 }

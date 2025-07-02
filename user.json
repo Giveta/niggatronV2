@@ -12,7 +12,7 @@
         "code": "skelly",
         "plan": "lifetime",
         "expiration_date": null,
-        "HWID": "178BFBFF00870F10"
+        "HWID": "178BFBFF00870F10",
         "Access": ["InvLoc", "Gacha", "HeianRR"]
     },
     "565141493870886924": {
@@ -53,7 +53,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "178BFBFF00A20F12",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "399656190281515008": {
         "username": "lazyyellowlad",
@@ -61,7 +61,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "178BFBFF00A50F00",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "399656190281515008": {
         "username": "lazyyellowlad",
@@ -69,15 +69,15 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000A0652",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "368236314182680576": {
         "username": "palmpawb",
         "code": "nujaburds23",
-        "plan": "lifetime"
+        "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000906ED",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "302370518244261889": {
         "username": "coco.2real",
@@ -85,7 +85,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000A0653",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "319724850308710402": {
         "username": "moegamerboy",
@@ -93,7 +93,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000B0671",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "950558982739738655": {
         "username": "thekingdraws",
@@ -101,7 +101,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "178BFBFF00A50F00",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "186763797665546240": {
         "username": "chaos07",
@@ -109,7 +109,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000B06F2",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "1055902592384901131": {
         "username": "hawley1994",
@@ -117,7 +117,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000906ED",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "688783880689680489": {
         "username": "isitvtec",
@@ -125,7 +125,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "178BFBFF00870F10",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "714243958376759387": {
         "username": "drownedshop",
@@ -133,7 +133,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "178BFBFF00A60F12",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "752214034404868178": {
         "username": "lvcd_",
@@ -141,7 +141,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "178BFBFF00A60F12",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "818314907078361161": {
         "username": "fw.valk",
@@ -149,7 +149,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000B0671",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "280838311898251276": {
         "username": "pedrolenda",
@@ -157,7 +157,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "178BFBFF00870F10",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "554463998595301388": {
         "username": "jinx.xxxxx",
@@ -165,7 +165,7 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000806D1",
-        "Access": "HeianRR"
+        "Access": ["HeianRR"]
     },
     "651043114491838464": {
         "username": "angeroni",

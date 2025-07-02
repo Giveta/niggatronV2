@@ -257,6 +257,8 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "437606603307614209",
-        "Access": []
+        "Access": [
+            "HeianRR"
+        ]
     }
 }

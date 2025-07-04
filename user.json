@@ -268,6 +268,8 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "BFEBFBFF000306A9",
-        "Access": []
+        "Access": [
+            "Gacha"
+        ]
     }
 }

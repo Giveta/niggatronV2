@@ -259,7 +259,8 @@
         "HWID": "178BFBFF00A20F10",
         "Access": [
             "Gacha",
-            "InvLoc"
+            "InvLoc",
+            "ServerPanel"
         ]
     },
     "1362091304770605337": {

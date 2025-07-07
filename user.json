@@ -287,6 +287,8 @@
         "plan": "lifetime",
         "expiration_date": null,
         "HWID": "178BFBFF00A20F10",
-        "Access": []
+        "Access": [
+            "ServerPanel"
+        ]
     }
 }

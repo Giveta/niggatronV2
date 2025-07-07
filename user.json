@@ -251,18 +251,6 @@
         "HWID": "BFEBFBFF000906ED",
         "Access": []
     },
-    "437606603307614209": {
-        "username": "Administrator",
-        "code": "sigma",
-        "plan": "lifetime",
-        "expiration_date": null,
-        "HWID": "178BFBFF00A20F10",
-        "Access": [
-            "Gacha",
-            "InvLoc",
-            "ServerPanel"
-        ]
-    },
     "1362091304770605337": {
         "username": "policy02",
         "code": "maky",

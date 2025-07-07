@@ -280,5 +280,13 @@
         "Access": [
             "ServerPanel"
         ]
+    },
+    "437606603307614209": {
+        "username": "giveta",
+        "code": "sigma",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "178BFBFF00A20F10",
+        "Access": []
     }
 }

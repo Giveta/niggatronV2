@@ -302,5 +302,13 @@
         "Access": [
             "ServerPanel"
         ]
+    },
+    "480509301358592000": {
+        "username": "tadashi3.",
+        "code": "jar",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "178BFBFF00A70F80",
+        "Access": []
     }
 }

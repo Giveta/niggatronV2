@@ -312,5 +312,13 @@
         "Access": [
             "ServerPanel"
         ]
+    },
+    "1228055654384799756": {
+        "username": "kong059501_07947",
+        "code": "kong",
+        "plan": "lifetime",
+        "expiration_date": null,
+        "HWID": "BFEBFBFF000806EA",
+        "Access": []
     }
 }
